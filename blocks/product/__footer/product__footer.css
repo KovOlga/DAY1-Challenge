@@ -1,0 +1,9 @@
+.product__footer {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 18px;
+    padding-left: 20px;
+    padding-bottom: 16px;
+}

@@ -1,0 +1,14 @@
+.product__img-item {
+    margin: 0;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    width: 17px;
+    border: 1px solid rgb(242, 242, 242);
+    transition: opacity .4s linear;
+    opacity: .4;
+}
+
+.product__img-item:hover {
+    opacity: 1;
+}

@@ -1,0 +1,7 @@
+.product__img-list {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    width: 112px;
+    margin: 0 auto;
+}

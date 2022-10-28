@@ -1,0 +1,9 @@
+.similar-products__title {
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: white;
+    margin: 15px 0;
+    padding: 0;
+}

@@ -1,0 +1,9 @@
+.product__price {
+    font-family: 'OpenSans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}

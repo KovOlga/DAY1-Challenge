@@ -1,0 +1,10 @@
+.product {
+    width: 280px;
+    height: 404px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(180deg, #E01E3C 0%, #2D324F 100%);
+    position: absolute;
+    top: -78px;
+    left: 67px;
+}

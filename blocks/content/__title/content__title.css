@@ -1,0 +1,13 @@
+.content__title {
+    font-family: 'RobotoMono';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 33px;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.content__title-super {
+    vertical-align: super;
+}

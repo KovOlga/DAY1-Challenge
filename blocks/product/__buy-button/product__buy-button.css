@@ -1,0 +1,18 @@
+.product__buy-button {
+    width: 124px;
+    height: 52px;
+    background-color: #E01E3C;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(45, 50, 79, 0.5);
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    position: relative;
+    left: 49px;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}

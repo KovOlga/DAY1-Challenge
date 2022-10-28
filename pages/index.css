@@ -1,0 +1,66 @@
+@import url('../vendor/normalize.css');
+
+@import url('../vendor/fonts.css');
+
+@import url('../blocks/body/body.css');
+
+@import url('../blocks/main-container/main-container.css');
+
+
+@import url('../blocks/product/product.css');
+
+@import url('../blocks/product/__img/product__img.css');
+
+@import url('../blocks/product/__img-list/product__img-list.css');
+
+@import url('../blocks/product/__img-item/product__img-item.css');
+
+@import url('../blocks/product/__footer/product__footer.css');
+
+@import url('../blocks/product/__price-color/product__price-color.css');
+
+@import url('../blocks/product/__price/product__price.css');
+
+@import url('../blocks/product/__color-list/product__color-list.css');
+
+@import url('../blocks/product/__color/product__color.css');
+
+@import url('../blocks/product/__buy-button/product__buy-button.css');
+
+@import url('../blocks/product/__buy-text/product__buy-text.css');
+
+
+@import url('../blocks/content/content.css');
+
+@import url('../blocks/content/__header/content__header.css');
+
+@import url('../blocks/content/__title/content__title.css');
+
+@import url('../blocks/content/__star-list-review/content__star-list-review.css');
+
+@import url('../blocks/content/__star-list/content__star-list.css');
+
+@import url('../blocks/content/__star-item/content__star-item.css');
+
+@import url('../blocks/content/__star/content__star.css');
+
+@import url('../blocks/content/__reviews/content__reviews.css');
+
+@import url('../blocks/content/__w1/content__w1.css');
+
+@import url('../blocks/content/__text/content__text.css');
+
+@import url('../blocks/content/__handlers/content__handlers.css');
+
+
+
+
+@import url('../blocks/similar-products/similar-products.css');
+
+@import url('../blocks/similar-products/__title/similar-products__title.css');
+
+@import url('../blocks/similar-products/__karusel/similar-products__karusel.css');
+
+@import url('../blocks/similar-products/__item/similar-products__item.css');
+
+@import url('../blocks/similar-products/__img/similar-products__img.css');

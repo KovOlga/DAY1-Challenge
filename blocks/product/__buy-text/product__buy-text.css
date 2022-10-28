@@ -1,0 +1,16 @@
+.product__buy-text {
+    font-family: 'RobotoMono';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.product__buy-logo {
+    display: block;
+    width: 19px;
+    height: 24px;
+}

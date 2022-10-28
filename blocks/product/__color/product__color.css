@@ -1,0 +1,10 @@
+.product__color {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.product__color-img {
+    display: block;
+}

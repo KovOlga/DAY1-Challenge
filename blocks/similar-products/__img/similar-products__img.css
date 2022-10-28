@@ -1,0 +1,7 @@
+.similar-products__img {
+    display: block;
+    width: 148px;
+    height: 130px;
+    border-radius: 10px;
+    filter: drop-shadow(3px 4px 8px rgba(0, 0, 0, 0.25));
+}
